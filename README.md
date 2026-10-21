@@ -86,12 +86,58 @@ Các kịch bản kiểm thử được thiết kế chi tiết bao phủ các c
 
 ---
 
-## 6. Kết quả kiểm thử (Test Results)
+## 6. Kết quả kiểm thử (Test Results) & Hình ảnh minh chứng
 
-* **Tổng số test cases:** 07
-* **Đạt (Passed):** 07 / 07
-* **Thất bại (Failed):** 0
-* **Tỷ lệ thành công:** 100%
+### 6.1 Tổng quan kết quả
+- **Tổng số test cases:** 07
+- **Đạt (Passed):** 07 / 07
+- **Thất bại (Failed):** 0
+- **Tỷ lệ thành công:** 100%
+
+---
+
+### 6.2 Minh chứng chi tiết từng Test Case
+
+> **1. Test Case 1: `test_login_success` (Đăng nhập thành công)**
+> <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/ee02e977-798d-451c-b77f-acc6c1253204" />
+
+> **2. Test Case 2: `test_login_failed` (Đăng nhập thất bại)**
+> <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/fce06b4f-525e-44ec-88ed-f2f70a152b9d" />
+
+> **3. Test Case 3: `test_login_locked_user` (Đăng nhập tài khoản bị khóa)**
+> <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/671f6b44-184b-4f87-91a0-9f1499242e6f" />
+
+> **4. Test Case 4: `test_add_product_to_cart` (Thêm 1 sản phẩm vào giỏ)**
+> <img width="1904" height="954" alt="image" src="https://github.com/user-attachments/assets/6dcc85ab-76e1-4489-98de-539f610f7fc8" />
+
+> **5. Test Case 5: `test_add_multiple_products` (Thêm nhiều sản phẩm vào giỏ)**
+> <img width="1903" height="953" alt="image" src="https://github.com/user-attachments/assets/dd2151e8-4bf8-44b0-a052-6c535bea84cb" />
+
+> **6. Test Case 6: `test_remove_product_from_cart` (Xóa sản phẩm khỏi giỏ)**
+> <img width="1904" height="935" alt="image" src="https://github.com/user-attachments/assets/98af3d44-26ce-433d-8cd7-4845f32896cf" />
+
+> **7. Test Case 7: `test_logout` (Đăng xuất hệ thống)**
+> 
+> <img width="421" height="307" alt="image" src="https://github.com/user-attachments/assets/7ad87eac-c194-4796-a5fd-1919f4dcd288" />
+
+---
+
+### 6.3 Báo cáo tổng hợp (Report HTML & Terminal)
+
+> **1. Giao diện Website kiểm thử (SauceDemo):**
+<img width="1904" height="952" alt="image" src="https://github.com/user-attachments/assets/cd6eb339-600a-4b57-88be-0d68029ae924" />
+
+>
+ 
+> **2. Kết quả thực thi Test Case trong Terminal:**
+<img width="1701" height="411" alt="image" src="https://github.com/user-attachments/assets/032f0ce4-fd7a-42e2-81b2-ae58f4146235" />
+
+> 
+
+> **3. Báo cáo kiểm thử HTML (HTML Report):**
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/ed7e8515-9012-43fb-ba02-a966c61a7483" />
+
+> 
 
 ---
 
@@ -114,7 +160,3 @@ Các kịch bản kiểm thử được thiết kế chi tiết bao phủ các c
 
 * **Họ và tên:** Đỗ Vân Khánh
 * **Mã số sinh viên (MSSV):** 23013929
-
-```
-
-```
