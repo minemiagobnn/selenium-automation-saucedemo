@@ -1,6 +1,3 @@
-Dưới đây là toàn bộ mã Markdown hoàn chỉnh từ đầu đến cuối để bạn copy **1 lần duy nhất** và dán vào file `README.md` trên GitHub:
-
-```markdown
 # Báo Cáo Thực Hành Kiểm Thử Tự Động Với Selenium
 
 ## 1. Giới thiệu dự án
